@@ -1,7 +1,5 @@
 # RAG_using_Mistral7B_and_LangChain
 
-# RAG PDF Jupyter Notebook
-
 ## Overview
 
 This Jupyter notebook demonstrates how to use various tools from the LangChain library to process and analyze PDF documents. It involves loading a PDF file, splitting the text into chunks, embedding the text, and using a language model for question answering. Need to run in Google Colab as there is a dependency on GPU.
